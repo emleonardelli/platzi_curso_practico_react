@@ -15,3 +15,9 @@ npm start
 ```
 npm install mini-css-extract-plugin css-loader styles-loader sass sass-loader  -D
 ```
+
+## Agregando enrutado
+
+```
+npm install react-router-dom
+```
